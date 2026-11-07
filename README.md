@@ -4,6 +4,8 @@
 
 🌐 **Website:** https://chest.cousincz.com
 
+![Exemple](/image12s.png)
+
 ## Overview
 
 Fortnite Chest Tracker is a web-based tracking project designed to help players monitor their chest-opening activity in Fortnite.
