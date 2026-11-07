@@ -8,7 +8,7 @@
 ![Replays](https://img.shields.io/badge/replays-must%20be%20on-F59E0B?style=for-the-badge)
 [![Discord](https://img.shields.io/badge/Discord-join-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/BNdbzQY3q)
 
-<img src="docs/dashboard.png" alt="Chest Tracker dashboard" width="900">
+<img src="dashboard.png" alt="Chest Tracker dashboard" width="900">
 
 </div>
 
@@ -92,7 +92,7 @@ Games you played with replays turned on before you linked are read and added onc
 
 ## Overlay and OBS
 
-<img align="right" src="docs/overlay.png" alt="Desktop overlay over the game" width="240">
+<img align="right" src="overlay.png" alt="Desktop overlay over the game" width="240">
 
 A desktop overlay shows your numbers over the game: Global, Opened, Destroyed and a count for each chest type. Choose its layout (Simple, Minimal or Complete) on the website. For streaming, add the same numbers to OBS as a private browser source.
 
@@ -111,7 +111,7 @@ Creating a new link disables the previous one.
 See how many chests everyone has opened and destroyed. The page shows the Global total, Opened and Destroyed, a table for every chest type, and all other chest classes. It only shows totals, never individual players.
 
 <div align="center">
-<img src="docs/community.png" alt="Community page with totals for all players" width="900">
+<img src="community.png" alt="Community page with totals for all players" width="900">
 </div>
 
 ## Privacy
