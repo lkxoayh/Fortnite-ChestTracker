@@ -4,11 +4,7 @@
 
 🌐 **Website:** https://chest.cousincz.com
 
-<details><summary>Website</summary>
-
 ![Exemple](/image12s.png)
-
-</details>
 
 ## Overview
 
