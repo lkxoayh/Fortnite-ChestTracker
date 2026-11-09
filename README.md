@@ -9,7 +9,7 @@
 [![Website](https://img.shields.io/badge/website-chest.cousincz.com-7C5CFF?style=for-the-badge)](https://chest.cousincz.com)
 [![Discord](https://img.shields.io/badge/Discord-join-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/BNdbzQY3q)
 
-**[chest.cousincz.com](https://chesttracker.xyz)**
+**[chesttracker.xyz](https://chesttracker.xyz)**
 
 <img src="dashboard.png" alt="Chest Tracker dashboard" width="900">
 
@@ -43,7 +43,7 @@ Fortnite can record a replay of every match on your PC. Chest Tracker reads thes
 
 ## Getting started
 
-1. Go to **[chest.cousincz.com](https://chesttracker.xyz)** and download `ChestTracker.exe`. That single file is all you need.
+1. Go to **[chesttracker.xyz](https://chesttracker.xyz)** and download `ChestTracker.exe`. That single file is all you need.
 2. Turn on replays in Fortnite (see above).
 3. Run `ChestTracker.exe`.
 
@@ -55,7 +55,7 @@ Then open the website, copy your link code and enter it in the app once. Stats a
 
 Linking connects the app on your PC to your profile on the website. You only do it once per PC.
 
-1. **Open the website** at [chest.cousincz.com](https://chesttracker.xyz). Your first visit creates your profile automatically. Under **Link your first PC** you will see a short code (for example `HVKAJQ7A`).
+1. **Open the website** at [chesttracker.xyz](https://chesttracker.xyz). Your first visit creates your profile automatically. Under **Link your first PC** you will see a short code (for example `HVKAJQ7A`).
 2. **Open `ChestTracker.exe`** on your PC.
 3. **Enter the code** when the app asks for it. You can also use the tray menu: right-click the Chest Tracker icon and choose **Link this PC**.
 4. **Play a match.** Stats appear on the website a few seconds after the match ends.
@@ -111,7 +111,7 @@ Creating a new link disables the previous one.
 
 ## Community page
 
-See how many chests everyone has opened and destroyed at [chest.cousincz.com/community](https://chesttracker.xyz/community). The page shows the Global total, Opened and Destroyed, a table for every chest type, and all other chest classes. It only shows totals, never individual players.
+See how many chests everyone has opened and destroyed at [chesttracker.xyz/community](https://chesttracker.xyz/community). The page shows the Global total, Opened and Destroyed, a table for every chest type, and all other chest classes. It only shows totals, never individual players.
 
 <div align="center">
 <img src="community.png" alt="Community page with totals for all players" width="900">
